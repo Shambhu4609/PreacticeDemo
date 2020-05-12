@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.012948">
+<testcase classname="Book a product on Dillards shopping application" name="Order product from dillards application" time="0.012948">
+<system-out><![CDATA[Given User should be on Loging home page....................................passed
+When User enters "shambhu" and "java123" in text box field..................passed
+Then User click on login button.............................................passed
+When user Search "Tishirts" in search box...................................passed
+Then User select product and click on addToBag..............................passed
+And user click checkOout button.............................................passed
+Then User click ProceedToCheck button.......................................passed
+And User enters "abc@gmail.com","sham","raj","5469785266","OMR chennai","842562","chennai"and "Tamilnadu" in the address confirmation page.passed
+Then User enters payment details "46326962679652,"shambhu" and "544" in the payment page.passed
+Then User confirm the payment and placed the order..........................passed
+]]></system-out>
+</testcase>
+</testsuite>
